@@ -96,3 +96,116 @@
    </table>
  </footer>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="fr">
+   <head>
+      <title> l'amical des Pelleteuse</title>
+      <meta charset="utf-8">
+      <meta name ="description" content="La présentation de notre collectif de passionée de tuning de Pelleteuse">
+      <meta name="keybords" content="Pelleteuse, Tuning, bulldozer">
+      <meta name="author" content="Gaillard Romain">
+      <link rel="icon" href="../images/Logo.png">
+   </head>
+
+
+<body>
+   
+   <section class="header">
+      <header>
+         <img src="../images/Logo pour la bannière dans le projet.png" alt="logo de l'amical des Pelleteuse">
+         <a href=""> Acceuil</a>
+         <a href=""> Recrutement</a>
+         <a href="../Wordle/wordle_game.html"> motus</a>
+      </header>
+<main >
+</section>
+   <section class="presentation">
+      <h1>Qui sommes nous ?</h1>
+      <h2> L'prumier site déd’ aux pelles et au tuning d’ pelleteuses !</h2>
+      <p>Bienvenue chés nous, min gars !
+
+         Ici, ch’est pas l’garage pour les bagnoles ou les motos, non non ! Ch’est l’coin des vrais, des mordus d’gros engins ! Chez nous, on tune pas des caisses, on tune des pelleteuses ! 😎
+         
+         T’trouvo qu’une pelle, ch’est juste bon à creuser ? Bah v’là t’y pas qu’t’as râté tout un monde ! Entre éclairage LED qui r’met le jour en pleine nuit, peinture flammée qui fait baver tout l’chantier et pots d’échappement qui chantent pus fort qu’un cornet d’baraque à frites, on s’démerde pour qu’not matos soit aussi beau qu’efficace !
+         
+         Viens faire un tour, mate nos chefs-d’œuvre mécaniques, et si t’as une pelle qui mérite un bon coup d’peinture et d’amour, ramène-là, on va lui donner du style !
+         
+         Ici, ch’est pas que du terrassement, ch’est du raffinement !</p>
+      <img src="../images/Image de pelle 3.jpg" alt="image de vehicules">
+
+      <div>
+         <h1>Actualité</h1>
+         <h2>venez nous voir !</h2>
+         <table>
+         <tr>
+         <td>
+            <img src="images/rassemblement.jpg" alt="aa" width="500px">
+         </td>
+            <td>
+            <p>Notre dernier rassemblement de tracteur</p>
+            </td>
+         </tr>
+         <tr>
+            <td><img src="images/Image de pelle 1.jpg" alt="" width="500px"></td>
+            <td><img src="images/Image de pelle 2.jpg" alt="" width="500px"></td>
+            <td><strong>Notre pelleteuse du mois mars</strong>§</td>
+         </tr>
+         </table>
+      </div>
+   </section>
+   <aside>
+
+      
+   </aside>
+
+
+</main>
+
+
+
+
+ <footer>
+   <table>
+      <tr>
+         <td>
+            <img src="images/Logo pour la bannière dans le projet.png">
+         </td>
+         <td>
+            <ul>
+               <p>Club l'amical des pelleteuses</p>
+               <p>À l'24 Rue du Godet, on gratte les idées aussi bien qu’ les fondations ! Ici, on tourne point autour du pot... mais autour d’ la pelleteuse bien tunnèye !</p>
+               <p>Rejoignez nous</p>
+               <p><a href="" alt="liens vers le Recrutement">Recrutement</a></p>
+               
+            </ul>
+         <td>
+            <li><p>Pour plus de pelleteuse rejoignez nos réseaux</p></li>
+            <li><a href="#"> <img src="images/facebook" alt="logo de facebook"></a></li>
+            <li><a href="#"> <img src="images/Instagram" alt="logo de instagram"></a></li>
+            <li><a href="#"> <img src="images/X" alt="logo de X"></a></li>
+            <li><a href="#"> <img src="images/linkedin" alt="logo de linkedin"></a></li>
+
+         </td>
+
+
+         </td>
+      </tr>
+
+
+
+   </table>
+ </footer>
+</body>
+</html>
