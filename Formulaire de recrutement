@@ -1,1 +1,114 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> l'amical des Pelleteuse</title>
+      <meta charset="utf-8">
+      <meta name ="description" content="La présentation de notre collectif de passionée de tuning de Pelleteuse">
+      <meta name="keybords" content="Pelleteuse, Tuning, bulldozer">
+      <meta name="author" content="Gaillard Romain">
+      <link rel="icon" href="images/Logo.png">
+   </head>
 
+    <body>
+        <header>
+            <img src="images/Logo pour la bannière dans le projet.png" alt="logo de l'amical des Pelleteuse">
+            <a href=""> Acceuil</a>
+            <a href=""> Recrutement</a>
+   
+         </header>
+        <h1> Recrutement</h1>
+
+        <form method="post" action="#"></form>
+        <p id="message-erreur">veuillez renseignez vos informations </p>
+        <fieldset>
+            <legende> information personnel </legende>
+           
+            <br><br> 
+
+            <label>Genre:</label>
+            <input type="radio" id="mme">
+            <label for="mme">Madame</label>
+            <input type="radio" id="mr" >
+            <label for="mr">Monsieur</label>
+             
+            <br><br>
+
+            <label for="nom">Nom :</label>
+				<input type="text" id="nom" >
+            <label for="prenom">Prénom :</label>
+				<input type="text" id="prenom" >
+             <label for="courriel">courriel :</label>
+				<input type="text" id="courriel" >
+            <label for="tel">tel :</label>
+				<input type="text" id="tel" >
+                
+             <br><br>
+
+        </fieldset>
+
+        
+			<fieldset>
+				<legend>Votre demande</legend>
+				
+				<label for="objet">Objet du message :</label>
+				<select id="select">
+					<option>  Réclamation </option>
+					<option>  Suggestions </option>
+                    <option>  Réclamations </option>
+                    <option>  Inscriptions </option>
+                    <option>  Problème techniques </option>
+				</select>
+				<br><br>
+		  
+				
+				<br><br>
+				
+				<input type="submit">
+				<input type="reset">
+			</fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+
+
+    <footer>
+        <table>
+           <tr>
+              <td>
+                 <img src="images/Logo pour la bannière dans le projet.png">
+              </td>
+              <td>
+                 <ul>
+                    <p>Club l'amical des pelleteuses</p>
+                    <p>À l'24 Rue du Godet, on gratte les idées aussi bien qu’ les fondations ! Ici, on tourne point autour du pot... mais autour d’ la pelleteuse bien tunnèye !</p>
+                    <p>Rejoignez nous</p>
+                    <p><a href="" alt="liens vers le Recrutement">Recrutement</a></p>
+                    
+                 </ul>
+              <td>
+                 <li><p>Pour plus de pelleteuse rejoignez nos réseaux</p></li>
+                 <li><a href="#"> <img src="images/facebook" alt="logo de facebook"></a></li>
+                 <li><a href="#"> <img src="images/Instagram" alt="logo de instagram"></a></li>
+                 <li><a href="#"> <img src="images/X" alt="logo de X"></a></li>
+                 <li><a href="#"> <img src="images/linkedin" alt="logo de linkedin"></a></li>
+     
+              </td>
+     
+     
+              </td>
+           </tr>
+     
+     
+     
+        </table>
+      </footer>
