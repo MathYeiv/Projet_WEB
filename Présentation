@@ -6,7 +6,7 @@
       <meta name ="description" content="La présentation de notre collectif de passionée de tuning de Pelleteuse">
       <meta name="keybords" content="Pelleteuse, Tuning, bulldozer">
       <meta name="author" content="Gaillard Romain">
-      <link rel="icon" type="images/Logo.png" href=""> 
+      <link rel="icon" href="images/Logo.png">
    </head>
 
 
@@ -20,17 +20,40 @@
       </header>
 
    
-      <h1>Qui sommes nous</h1>
-      <h2> Le Premier Site Dédié au pelleteuse  et au Tuning de Pelleteuses !</h2>
-      <p>Vous pensiez que le tuning était réservé aux voitures de sport et aux motos ? Détrompez-vous ! Ici, nous repoussons les limites de la personnalisation en donnant un nouveau visage aux engins de chantier. Bienvenue dans l’univers du tuning de pelleteuses, où puissance, esthétique et performance se rencontrent pour transformer vos machines en véritables œuvres d’art mécaniques.</p>
+      <h1>Qui sommes nous ?</h1>
+      <h2> L'prumier site déd’ aux pelles et au tuning d’ pelleteuses !</h2>
+      <p>Bienvenue chés nous, min gars !
+
+         Ici, ch’est pas l’garage pour les bagnoles ou les motos, non non ! Ch’est l’coin des vrais, des mordus d’gros engins ! Chez nous, on tune pas des caisses, on tune des pelleteuses ! 😎
+         
+         T’trouvo qu’une pelle, ch’est juste bon à creuser ? Bah v’là t’y pas qu’t’as râté tout un monde ! Entre éclairage LED qui r’met le jour en pleine nuit, peinture flammée qui fait baver tout l’chantier et pots d’échappement qui chantent pus fort qu’un cornet d’baraque à frites, on s’démerde pour qu’not matos soit aussi beau qu’efficace !
+         
+         Viens faire un tour, mate nos chefs-d’œuvre mécaniques, et si t’as une pelle qui mérite un bon coup d’peinture et d’amour, ramène-là, on va lui donner du style !
+         
+         Ici, ch’est pas que du terrassement, ch’est du raffinement !</p>
       <img src="images/Image de pelle 1.jpg" alt="image de vehicules">
+
+
+      <h1>Actualité</h1>
+      <h2>venez nous voir !</h2>
+      <table>
+         <td>
+               <img src="images/Rassemblement.jpg" alt="">le dernier 
+         </td>
+         <td>
+            <tr>
+               <p>Notre dernier rassemblement de tracteur</p>
+            </tr>
+         </td>
+      </table>
    </section>
 
    <aside>
       <div>
+         <h1>truc à mettre sur le coté</h1>
 
       </div>
-      <h1>truc à mettre sur le coté</h1>
+      
 
 
    </aside>
@@ -50,7 +73,7 @@
          <td>
             <ul>
                <p>Club l'amical des pelleteuses</p>
-               <p>Au 24 Rue du Godet, on creuse les idées aussi bien que les fondations ! Ici, on ne tourne pas autour du pot... mais autour de la pelleteuse bien tunée !</p>
+               <p>À l'24 Rue du Godet, on gratte les idées aussi bien qu’ les fondations ! Ici, on tourne point autour du pot... mais autour d’ la pelleteuse bien tunnèye !</p>
                <p>Rejoignez nous</p>
                <p><a href="" alt="liens vers le Recrutement">Recrutement</a></p>
                
