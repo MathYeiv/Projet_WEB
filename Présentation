@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> l'amical des Pelleteuse</title>
+      <meta charset="utf-8">
+      <meta name ="description" content="La présentation de notre collectif de passionée de tuning de Pelleteuse">
+      <meta name="keybords" content="Pelleteuse, Tuning, bulldozer">
+      <meta name="author" content="Gaillard Romain">
+      <link rel="icon" type="images/Logo.png" href=""> 
+   </head>
+
+
+<main>
+   <section>
+      <header>
+         <img src="images/Logo pour la bannière dans le projet.png" alt="logo de l'amical des Pelleteuse">
+         <a href=""> Acceuil</a>
+         <a href=""> Recrutement</a>
+
+      </header>
+
+   
+      <h1>Qui sommes nous</h1>
+      <h2> Le Premier Site Dédié au pelleteuse  et au Tuning de Pelleteuses !</h2>
+      <p>Vous pensiez que le tuning était réservé aux voitures de sport et aux motos ? Détrompez-vous ! Ici, nous repoussons les limites de la personnalisation en donnant un nouveau visage aux engins de chantier. Bienvenue dans l’univers du tuning de pelleteuses, où puissance, esthétique et performance se rencontrent pour transformer vos machines en véritables œuvres d’art mécaniques.</p>
+      <img src="images/Image de pelle 1.jpg" alt="image de vehicules">
+   </section>
+
+   <aside>
+      <div>
+
+      </div>
+      <h1>truc à mettre sur le coté</h1>
+
+
+   </aside>
+
+</main>
+
+
+
+
+
+ <footer>
+   <table>
+      <tr>
+         <td>
+            <img src="images/Logo pour la bannière dans le projet.png">
+         </td>
+         <td>
+            <ul>
+               <p>Club l'amical des pelleteuses</p>
+               <p>Au 24 Rue du Godet, on creuse les idées aussi bien que les fondations ! Ici, on ne tourne pas autour du pot... mais autour de la pelleteuse bien tunée !</p>
+               <p>Rejoignez nous</p>
+               <p><a href="" alt="liens vers le Recrutement">Recrutement</a></p>
+               
+            </ul>
+         <td>
+            <li><p>Pour plus de pelleteuse rejoignez nos réseaux</p></li>
+            <li><a href="#"> <img src="images/facebook" alt="logo de facebook"></a></li>
+            <li><a href="#"> <img src="images/Instagram" alt="logo de instagram"></a></li>
+            <li><a href="#"> <img src="images/X" alt="logo de X"></a></li>
+            <li><a href="#"> <img src="images/linkedin" alt="logo de linkedin"></a></li>
+
+         </td>
+
+
+         </td>
+      </tr>
+
+
+
+   </table>
+ </footer>
+</html>
